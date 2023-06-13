@@ -42,12 +42,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Hugs-4-Bugs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/kattyPrabhat)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![]([https://gtce.itsvg.in/api?username=https://twitter.com/kattyPrabhat)](https://github.com/VishwaGauravIn/github-twitter-card-embed](https://twitter.com/kattyPrabhat/with_replies))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hugs-4-Bugs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L0oKjULP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A0VaTwYF3RdMFp1PjY_1NqA%402x.jpeg" width="300px"/>
 
 ---
