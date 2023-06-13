@@ -48,7 +48,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Hugs-4-Bugs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L0oKjULP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A0VaTwYF3RdMFp1PjY_1NqA%402x.jpeg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hugs-4-Bugs&icon=0&color=0)](https://visitcount.itsvg.in)
