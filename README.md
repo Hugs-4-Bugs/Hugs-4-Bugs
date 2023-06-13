@@ -3,7 +3,7 @@
                                      ##This is Prabhat Kumar👋
 
 🌱 Learning Something New Everyday...<br>🔭 Highly interested in Software Development and Programming..<br>🌱 Currently learning more about Advanced Java <br>🔭 I’m currently working on improving my development skills<br>👯 I’m looking to make more friends.<br>⚡ I’m looking for help with contributing to open source projects<br>💬 Ask me about tech related stuffs at <a href = "mailto: prabhatkumarssm72@gmail.com"><img alt="Gmail" src="https://camo.githubusercontent.com/79292d3736cce0c7d743a9edc0bafd75da633cdc8b58797329fc9c3f56f9887b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="max-width: 100%;">
-<br>🤩 Fun fact - I am lazy but smart!<br>
+<br>🤩 Fun fact - I am lazy but smart!</br>
 
 
 ## 🌐 Socials:
