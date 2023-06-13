@@ -1,22 +1,4 @@
-                                                                                  
-<html>
-<head>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: right;
-            height: 100vh;
-            margin: 0;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hello &lt;coders/&gt;👋!</h1>
-</body>
-</html>
-
-
+<h1>Hello &lt;coders/👋!</h1>
 
 
 
