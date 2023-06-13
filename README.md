@@ -1,8 +1,8 @@
-
-<div class="centered-content">
+<p style="text-align:center">
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <h1>Hello &lt;coders/👋!</h1>
 </div>
-
+  </p>
 
 
 
