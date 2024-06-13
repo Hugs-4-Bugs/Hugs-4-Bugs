@@ -56,8 +56,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Hugs-4-Bugs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🐦 Latest Tweet
-[![]([https://gtce.itsvg.in/api?username=https://twitter.com/kattyPrabhat)](https://github.com/VishwaGauravIn/github-twitter-card-embed](https://twitter.com/kattyPrabhat/with_replies))
+## 🔝 Latest LinkedIn Activity
+[![View LinkedIn Activity](https://img.shields.io/badge/LinkedIn-Recent%20Activity-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prabhat-kumar-6963661a4/recent-activity/all/)
 
 
 ### 🔝 Top Contributed Repo
