@@ -57,7 +57,7 @@
 
 
 ## 🔝 Latest LinkedIn Activity
-[![View LinkedIn Activity](https://img.shields.io/badge/LinkedIn-Recent%20Activity-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prabhat-kumar-6963661a4/recent-activity/all/)
+[![View LinkedIn Activity](https://img.shields.io/badge/linkedin-2A5CBD.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-kumar-6963661a4/recent-activity/all/)
 
 
 ### 🔝 Top Contributed Repo
