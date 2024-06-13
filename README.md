@@ -28,8 +28,11 @@
 
 
 
+
 ## 🌐 Coding Profiles:
 <a href="https://www.hackerrank.com/Prabhat_7250?hr_r=1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stymrj" height="50" width="60" style="max-width: 100%;">  <a href="https://leetcode.com/Hugs-2-Bugs/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stymrj" height="30" width="40" style="max-width: 100%;"> <a href="https://auth.geeksforgeeks.org/user/prabhatkueazc/practice" rel="nofollow"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20211005162802/longdesc2.png" alt="stymrj" height="40" width="40" style="max-width: 100%;">
+
+
 
 
 # 💻 Tech Stack:
@@ -40,18 +43,26 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hugs-4-Bugs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hugs-4-Bugs&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugs-4-Bugs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<a href="https://github.com/Hugs-4-Bugs">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hugs-4-Bugs&theme=2077" height="180em" /> 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hugs-4-Bugs&theme=2077" height="180em" /><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hugs-4-Bugs&theme=2077" height="180em" /> 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hugs-4-Bugs&theme=2077" height="180em" /><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugs-4-Bugs&theme=2077" height="180em" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hugs-4-Bugs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
 ## 🐦 Latest Tweet
 [![]([https://gtce.itsvg.in/api?username=https://twitter.com/kattyPrabhat)](https://github.com/VishwaGauravIn/github-twitter-card-embed](https://twitter.com/kattyPrabhat/with_replies))
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hugs-4-Bugs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ## 😂 Random Dev Meme
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L0oKjULP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A0VaTwYF3RdMFp1PjY_1NqA%402x.jpeg" width="300px"/>
