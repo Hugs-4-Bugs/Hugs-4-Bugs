@@ -78,7 +78,7 @@
 
 ## 😂 Random Dev Meme![Uploading Screenshot 2024-12-31 at 9.08.54 PM.png…]()
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L0oKjULP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdnimages1.medium.com/max/1200/1%2A0VaTwYF3RdMFp1PjY_1NqA%402x.jpeg" width="300px"/>
+<img src="![image](https://github.com/user-attachments/assets/ee415e6b-7212-4581-855c-f6e8530b1a72)" width="300px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hugs-4-Bugs&icon=0&color=0)](https://visitcount.itsvg.in)
