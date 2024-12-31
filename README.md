@@ -78,7 +78,7 @@
 
 ## 😂 Random Dev Meme
 
-![image](https://github.com/user-attachments/assets/61ce577f-773c-41b5-b9af-9fd016f5ae21)
+<img src="https://github.com/user-attachments/assets/61ce577f-773c-41b5-b9af-9fd016f5ae21" width="300" alt="Image">
 
 
 ---
