@@ -78,7 +78,8 @@
 
 ## 😂 Random Dev Meme
 
-<img src="![image](https://github.com/user-attachments/assets/ee415e6b-7212-4581-855c-f6e8530b1a72)" width="300px"/>
+![image](https://github.com/user-attachments/assets/61ce577f-773c-41b5-b9af-9fd016f5ae21)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hugs-4-Bugs&icon=0&color=0)](https://visitcount.itsvg.in)
