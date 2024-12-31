@@ -76,7 +76,7 @@
 
 
 
-## 😂 Random Dev Meme![Uploading Screenshot 2024-12-31 at 9.08.54 PM.png…]()
+## 😂 Random Dev Meme
 
 <img src="![image](https://github.com/user-attachments/assets/ee415e6b-7212-4581-855c-f6e8530b1a72)" width="300px"/>
 
