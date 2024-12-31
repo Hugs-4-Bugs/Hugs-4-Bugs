@@ -68,11 +68,12 @@
 
 ### 🔝 HackerRank Badge
 
-<img width="679" alt="Screenshot 2024-12-31 at 9 04 10 PM" src="https://github.com/user-attachments/assets/b48de774-263e-477e-a9fb-741c438e65e9" />, ![image](https://github.com/user-attachments/assets/bd0c34ef-098e-45ee-92d3-1cc8e69a645d)
+<img width="888" alt="Screenshot 2024-12-31 at 9 08 54 PM" src="https://github.com/user-attachments/assets/21c94c2b-fa9d-4788-a0e7-47bfab816b40" />, [image](https://github.com/user-attachments/assets/bd0c34ef-098e-45ee-92d3-1cc8e69a645d)
 
 
 
-## 😂 Random Dev Meme
+## 😂 Random Dev Meme![Uploading Screenshot 2024-12-31 at 9.08.54 PM.png…]()
+
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L0oKjULP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A0VaTwYF3RdMFp1PjY_1NqA%402x.jpeg" width="300px"/>
 
 ---
