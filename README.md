@@ -74,6 +74,12 @@
 
 <img width="875" alt="Screenshot 2024-12-31 at 9 04 51 PM" src="https://github.com/user-attachments/assets/33014532-8377-4dd9-9d7f-17809c980c5a" />
 
+### 🔝 My GeeksforGeeks Contribution
+
+<img width="1135" alt="Screenshot 2024-12-31 at 9 23 49 PM" src="https://github.com/user-attachments/assets/804443a1-8327-4546-819f-491ead453613" />
+
+### 🔝 My LeetCode Contribution
+
 
 
 ## 😂 Random Dev Meme
