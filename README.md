@@ -68,7 +68,7 @@
 
 ### 🔝 HackerRank Badge
 
-<img width="888" alt="Screenshot 2024-12-31 at 9 08 54 PM" src="https://github.com/user-attachments/assets/21c94c2b-fa9d-4788-a0e7-47bfab816b40" /> ![image](https://github.com/user-attachments/assets/a6b30843-1ac4-4bf0-a840-0c9aa0da5be8)
+<img width="888" alt="Screenshot 2024-12-31 at 9 08 54 PM" src="https://github.com/user-attachments/assets/21c94c2b-fa9d-4788-a0e7-47bfab816b40" />![image](https://github.com/user-attachments/assets/fe72f060-ff13-406e-a936-61c39e5708bd)
 
 
 
