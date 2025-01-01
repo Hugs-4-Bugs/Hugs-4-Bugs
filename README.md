@@ -80,6 +80,8 @@
 
 ### 🔝 My LeetCode Contribution
 
+<img width="1190" alt="Screenshot 2025-01-01 at 8 47 21 PM" src="https://github.com/user-attachments/assets/459a1c55-9518-4361-b806-c57844f19df4" />
+
 
 
 ## 😂 Random Dev Meme
