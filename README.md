@@ -28,11 +28,10 @@
 
 
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009107757751) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_s_4_sharma/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-kumar-6963661a4/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Prabhat-Kumar-3443) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19520484/prabhat-kumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kattyPrabhat) [![Naukari](https://img.shields.io/badge/naukari-%23ED4B00?style=for-the-badge&logo=naukari&logoColor=black)](https://www.naukri.com/mnjuser/profile?id=&altresid) [![Portfolio](https://img.shields.io/badge/portfolio-FCC624?style=for-the-badge&logo=portfolio&logoColor=black)](https://hugs-4-bugs.github.io/myResume/)  [![Linktree](https://img.shields.io/badge/linktree-AG624?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/_s_4_sharma) [![Microsoft](https://img.shields.io/badge/microsoft-AFB524?style=for-the-badge&logo=microsoft&logoColor=black)](https://learn.microsoft.com/en-us/users/me/achievements#badges-section) 
 
----
+
 
 
 ## 🌐 Coding Profiles:
