@@ -5,7 +5,6 @@
   </p>
 
 
-
 <div class="centered-content">
   <h2>This is Prabhat Kumar👋</h2>
 </div>
