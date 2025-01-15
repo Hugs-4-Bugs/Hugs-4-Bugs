@@ -91,7 +91,7 @@
 
 ### 🔝 My LeetCode Contribution
 
-<img width="1440" alt="Screenshot 2025-01-08 at 11 33 52 PM" src="https://github.com/user-attachments/assets/abf851f3-f01e-407b-b89f-f470437f6507" />
+<img width="1440" alt="Screenshot 2025-01-15 at 6 38 40 PM" src="https://github.com/user-attachments/assets/8b9fe10d-0b17-4f9a-a0cd-bb5963634ed7" />
 
 
 
