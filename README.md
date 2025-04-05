@@ -72,17 +72,6 @@
 
 ---
 
-<!-- Banner -->
-<h1 align="center">🍰 Welcome to AK's Cupcake Factory 🍰</h1>
-<h3 align="center">Where Code Smells Like Cupcakes... and sometimes like burning servers 🔥</h3>
-
-<!-- Funny GIF -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/VVId2HqQVNHhrJQpUX/giphy.gif" width="300px" alt="funny gif" />
-</p>
-
----
-
 <!-- Dev Console -->
 <details>
 <summary><strong>🧪 Click to Enter the Chaos Zone (Dev Console)</strong></summary>
