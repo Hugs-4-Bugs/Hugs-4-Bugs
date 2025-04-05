@@ -50,7 +50,9 @@
 
 ## 🐞 Debugging never looked so romantic...
 
-![You look buggy... I can debug you.](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG56OHB1NGk4M3ptNmhrZWZiYWV1MTZvbXJ3a2xxZTRxbDFpMzA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uRGOD9c2Q4kNYogJI8/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG56OHB1NGk4M3ptNmhrZWZiYWV1MTZvbXJ3a2xxZTRxbDFpMzA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uRGOD9c2Q4kNYogJI8/giphy.gif" width="900" />
+</p>
 
 --- 
 
