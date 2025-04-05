@@ -74,38 +74,45 @@
 
 <!-- Dev Console -->
 <details>
-<summary><strong>🧪 Click to Enter the Chaos Zone (Dev Console)</strong></summary>
+<summary><h2>🧪💥 ENTER THE CHAOS ZONE: Click If You Dare (Dev Console) 💥🧪</h2></summary>
 
 <pre>
-╔═════════════════════════════════════════════════════════════╗
-║                WELCOME TO THE CHAOS ZONE ☠️                 ║
-╚═════════════════════════════════════════════════════════════╝
-👾 Name: Prabhat Kumar 👑  
-🎩 Title: Bug Whisperer | AI Tamer | Deadline Escapist  
-🏢 Company: QuantumFusion Solutions™  
-🧠 Status: Debugging my existence... with breakpoints 🐞  
-💫 Mood: 99% caffeine, 1% logic (but multithreaded)  
-📘 Author of: The Inner Battle (a poetic try-catch of life)  
-💀 Alive? Yes, unless Spring Security breaks again  
-🐞 Bugs Fixed: 999999, Bugs Created: 1000000 😈  
-💬 Famous Last Words: "Bro, it was working yesterday!"  
-🧪 Stack: Coffee | Spring Boot | OpenAI | Crying in Logs  
-🐢 Speed: Fast in thinking, slow in deadlines
+╔═══════════════════════════════════════════════════════════════════════╗
+║                      ☠️ WELCOME TO THE CHAOS ZONE ☠️                  ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║ 👾 Name: Prabhat Kumar (a.k.a The Java Juggler)                       ║
+║ 🏢 Founder: QuantumFusion Solutions™                                  ║
+║ 🧠 Brain Mode: 50% Spring Boot | 50% AI | 100% Sleep Deprived         ║
+║ 🔥 Current Task: Taming Spring Security while drinking burnt chai     ║
+║ 📘 Author: The Inner Battle (it compiles, therefore it exists)        ║
+║ 🐞 Bug Fix Count: 1,000,000 (created), 999,999 (fixed), 1 remains 😈  ║
+║ 💀 Status: Alive, until I deploy again on Friday night                ║
+║ 🧪 Favorite API: One that doesn’t break in prod                       ║
+║ 💬 Dev Quote: “Try-catch won’t fix your broken heart 💔”              ║
+║ 🎩 Debug Level: Sherlock + StackOverflow tabs                        ║
+║ 📟 Console Logs: 5,000 lines per second... 3 useful                   ║
+║ 📅 Sprint Plan: Panic > Code > Pray > Demo                            ║
+║ 🍕 Fuel: Pizza + Coffee + Existential Dread                          ║
+╚═══════════════════════════════════════════════════════════════════════╝
 
-📣 Ping me if:  
-✔ You want to build something cool  
-✔ You broke prod and need emotional support  
-✔ You love memes more than meetings
+📣 Ping me if:
+✔ You want to collab & break prod together  
+✔ You think Git merge conflicts are a form of modern art  
+✔ You need emotional support during deploys
 
-✨ Tip of the Day:
-> Semicolons are tiny swords. Use them to slay bugs ⚔️
+💡 Tip of the Day:
+> Don't comment your code. Let future devs feel the same pain. 😌
+
+👽 Console wisdom:
+System.out.println("Why am I like this?");
 </pre>
 
 </details>
 
 ---
 
-### 🚀 Let's connect & build cool chaos together!
+### 🚀 Let’s build chaos, coffee-fueled code & cool things together!
+
 
 ---
 
