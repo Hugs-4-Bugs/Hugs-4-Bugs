@@ -66,34 +66,36 @@
 <p>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5rZmx6NXFsNjB3YWpsNmhuYmt0c251ZTZ2czhpNHVwaTdmdzA1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVId2HqQVNHhrJQpUX/giphy.gif" 
        alt="Funny GIF" 
-       width="900" />
+       width="800" />
 </p>
 
 
 ---
 
-<!-- Dev Console -->
+<!-- Chaos Zone: Upgraded Version -->
 <details>
-<summary><h2>🧪💥 ENTER THE CHAOS ZONE: Click If You Dare (Dev Console) 💥🧪</h2></summary>
+<summary><h2>🚨💥 ENTER THE CHAOS ZONE: Click If You Dare 💥🚨</h2></summary>
 
-<pre>
-╔═══════════════════════════════════════════════════════════════════════╗
-║                      ☠️ WELCOME TO THE CHAOS ZONE ☠️                  ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║ 👾 Name: Prabhat Kumar (a.k.a The Java Juggler)                       ║
-║ 🏢 Founder: QuantumFusion Solutions™                                  ║
-║ 🧠 Brain Mode: 50% Spring Boot | 50% AI | 100% Sleep Deprived         ║
-║ 🔥 Current Task: Taming Spring Security while drinking burnt chai     ║
-║ 📘 Author: The Inner Battle (it compiles, therefore it exists)        ║
-║ 🐞 Bug Fix Count: 1,000,000 (created), 999,999 (fixed), 1 remains 😈  ║
-║ 💀 Status: Alive, until I deploy again on Friday night                ║
-║ 🧪 Favorite API: One that doesn’t break in prod                       ║
-║ 💬 Dev Quote: “Try-catch won’t fix your broken heart 💔”              ║
-║ 🎩 Debug Level: Sherlock + StackOverflow tabs                        ║
-║ 📟 Console Logs: 5,000 lines per second... 3 useful                   ║
-║ 📅 Sprint Plan: Panic > Code > Pray > Demo                            ║
-║ 🍕 Fuel: Pizza + Coffee + Existential Dread                          ║
-╚═══════════════════════════════════════════════════════════════════════╝
+<table width="100%" cellspacing="0" cellpadding="10" style="border: 3px solid #ff4081; border-radius: 10px;">
+  <tr>
+    <td>
+      <h3 align="center">☠️ <span style="color:#ff4081;">WELCOME TO THE CHAOS ZONE</span> ☠️</h3>
+      <p>👾 <strong>Name:</strong> <span style="color:#00bcd4;">Prabhat Kumar (a.k.a The Java Juggler)</span></p>
+      <p>🏢 <strong>Founder:</strong> <span style="color:#4caf50;">QuantumFusion Solutions™</span></p>
+      <p>🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | <span style="color:#f44336;">100% Sleep Deprived</span></p>
+      <p>🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕</p>
+      <p>📘 <strong>Author of:</strong> <em>The Inner Battle</em> (it compiles, therefore it exists)</p>
+      <p>🐞 <strong>Bugs Fixed:</strong> 999,999 | <span style="color:red;">Bugs Left: 1 and it’s hiding 😈</span></p>
+      <p>💀 <strong>Status:</strong> Alive... until I hit `git push origin main` on Friday night</p>
+      <p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
+      <p>💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”</p>
+      <p>📟 <strong>Logs:</strong> 5000 lines/sec... <span style="color:orange;">3 lines useful</span></p>
+      <p>🍕 <strong>Fuel:</strong> Pizza + Coffee + Existential Dread</p>
+      <p>💡 <strong>Dev Tip:</strong> “Don’t comment your code — make it legendary (and unreadable)”</p>
+      </p>
+    </td>
+  </tr>
+</table>
 
 📣 Ping me if:
 ✔ You want to collab & break prod together  
