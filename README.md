@@ -72,44 +72,53 @@
 
 ---
 
+<!-- Banner -->
+<h1 align="center">🍰 Welcome to AK's Cupcake Factory 🍰</h1>
+<h3 align="center">Where Code Smells Like Cupcakes... and sometimes like burning servers 🔥</h3>
 
-```md
-## 👾 Welcome to My Chaos Zone (Java Edition)
+<!-- Funny GIF -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/VVId2HqQVNHhrJQpUX/giphy.gif" width="300px" alt="funny gif" />
+</p>
 
-```java
-// QuantumFusionChaos.java
-public class QuantumFusionChaos {
-    public static void main(String[] args) {
-        // see below for the glorious chaos output!
-    }
-}
-```
+---
+
+<!-- Dev Console -->
+<details>
+<summary><strong>🧪 Click to Enter the Chaos Zone (Dev Console)</strong></summary>
 
 <pre>
 ╔═════════════════════════════════════════════════════════════╗
 ║                WELCOME TO THE CHAOS ZONE ☠️                 ║
 ╚═════════════════════════════════════════════════════════════╝
 👾 Name: Prabhat Kumar 👑  
-🎩 Title: Bug Whisperer, AI Tamer & Coffee Dependent Lifeform ☕  
+🎩 Title: Bug Whisperer | AI Tamer | Deadline Escapist  
 🏢 Company: QuantumFusion Solutions™  
-🧠 Current Status: Wrestling with Spring Boot & Whispering to AI models 🤖  
-💫 Mood: 99% caffeine, 1% logic (but that 1% is multithreaded)  
-📘 Book in Progress: The Inner Battle (Coming soon to a console near you 📚)  
-💀 Alive? Yes, but barely. Send snacks.  
-🐞 Bugs Fixed: 999999, Bugs Created: 1000000  
-💬 Famous Last Words: "It worked on my machine."  
-🧪 Running on: Coffee, Deadlines, and Debugging Despair  
+🧠 Status: Debugging my existence... with breakpoints 🐞  
+💫 Mood: 99% caffeine, 1% logic (but multithreaded)  
+📘 Author of: The Inner Battle (a poetic try-catch of life)  
+💀 Alive? Yes, unless Spring Security breaks again  
+🐞 Bugs Fixed: 999999, Bugs Created: 1000000 😈  
+💬 Famous Last Words: "Bro, it was working yesterday!"  
+🧪 Stack: Coffee | Spring Boot | OpenAI | Crying in Logs  
+🐢 Speed: Fast in thinking, slow in deadlines
 
 📣 Ping me if:  
-✔ You wanna build something cool  
+✔ You want to build something cool  
 ✔ You broke prod and need emotional support  
-✔ You just like memes and Spring Boot  
+✔ You love memes more than meetings
 
-✨ Remember: Semicolons are tiny swords. Use them wisely.
+✨ Tip of the Day:
+> Semicolons are tiny swords. Use them to slay bugs ⚔️
 </pre>
-```
 
-```
+</details>
+
+---
+
+### 🚀 Let's connect & build cool chaos together!
+
+---
 
 # 📊 GitHub Stats:
 
