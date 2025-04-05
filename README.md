@@ -50,7 +50,21 @@
 
 (if you star it, I'll personally thank you if you open an issue here :D)
 
-https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato
+<a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
+  <img src="https://github.com/0vm/0vm/assets/79897291/1d00efde-8b62-41ec-87fd-c307bc0cbbea" alt="a man has fallen in lego city" style="width: 100%;">
+</a>
+
+
+--- 
+
+## About Me
+
+| Java | Spring Boot | SQL | Data Structures | Algorithms | AWS |
+
+*I drive.* 🚗💨
+
+[![Ryan Gosling Drive](![image](https://github.com/user-attachments/assets/a256b68f-2f85-40fd-833b-b82411381099))]
+[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 
 
