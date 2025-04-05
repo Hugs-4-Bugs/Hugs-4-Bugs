@@ -73,26 +73,42 @@
 ---
 
 ```java
-public class QuantumFusionIntro {
+public class QuantumFusionChaos {
 
     public static void main(String[] args) {
-        final String name = "Prabhat Kumar 🚀";
-        final String company = "QuantumFusion Solutions";
-        final String currentMission = "Taming AI, Cloud, and maybe my sleep schedule";
-        final String book = "The Inner Battle 📖";
+        final String name = "Prabhat Kumar 👑";
+        final String title = "Bug Whisperer, AI Tamer & Coffee Dependent Lifeform ☕";
+        final String company = "QuantumFusion Solutions™";
+        final String currentStatus = "Wrestling with Spring Boot & Whispering to AI models 🤖";
+        final String mood = "99% caffeine, 1% logic (but that 1% is multithreaded)";
+        final String book = "The Inner Battle (Coming soon to a console near you 📚)";
+        final boolean isAlive = true;
+        final int bugsFixed = 999999;
+        final int bugsCreated = bugsFixed + 1; // Whoops
 
-        System.out.println("*************************************************************");
-        System.out.println("************ Welcome to " + company + " Universe ************");
-        System.out.println("*************************************************************");
-        System.out.println("👋 Hey there, digital wanderer!");
-        System.out.println("🌟 I'm " + name + ", founder, builder, and occasional philosopher.");
-        System.out.println("🤖 Currently busy with: " + currentMission);
-        System.out.println("✍️ Also writing a book called '" + book + "' — it's deep stuff, trust me.");
-        System.out.println("☕ If you bring coffee and crazy ideas, we might just build the next big thing.");
-        System.out.println("📫 HMU if you're down to innovate or just rant about semicolons!");
+        System.out.println("╔═════════════════════════════════════════════════════════════╗");
+        System.out.println("║                WELCOME TO THE CHAOS ZONE ☠️                 ║");
+        System.out.println("╚═════════════════════════════════════════════════════════════╝");
+
+        System.out.println("👾 Name: " + name);
+        System.out.println("🎩 Title: " + title);
+        System.out.println("🏢 Company: " + company);
+        System.out.println("🧠 Current Status: " + currentStatus);
+        System.out.println("💫 Mood: " + mood);
+        System.out.println("📘 Book in Progress: " + book);
+        System.out.println("💀 Alive? " + (isAlive ? "Yes, but barely. Send snacks." : "Please reboot me."));
+        System.out.println("🐞 Bugs Fixed: " + bugsFixed + ", Bugs Created: " + bugsCreated);
+        System.out.println("💬 Famous Last Words: 'It worked on my machine.'");
+        System.out.println("🧪 Running on: Coffee, Deadlines, and Debugging Despair");
+
+        System.out.println("\n📣 Ping me if:");
+        System.out.println("  ✔ You wanna build something cool");
+        System.out.println("  ✔ You broke prod and need emotional support");
+        System.out.println("  ✔ You just like memes and Spring Boot");
+
+        System.out.println("\n✨ Remember: Semicolons are tiny swords. Use them wisely.");
     }
 }
-
 ```
 
 # 📊 GitHub Stats:
