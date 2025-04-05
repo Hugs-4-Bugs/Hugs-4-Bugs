@@ -21,7 +21,15 @@
 <br>🤩 Fun fact - I am lazy but smart!</br>
 
 
+---
 
+## 🐞 Debugging never looked so romantic...
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG56OHB1NGk4M3ptNmhrZWZiYWV1MTZvbXJ3a2xxZTRxbDFpMzA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uRGOD9c2Q4kNYogJI8/giphy.gif" width="900" />
+</p>
+
+--- 
 
 
 
@@ -48,21 +56,12 @@
 
 ---
 
-## 🐞 Debugging never looked so romantic...
+## Brilliant... but lazy. – My IDE probably
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG56OHB1NGk4M3ptNmhrZWZiYWV1MTZvbXJ3a2xxZTRxbDFpMzA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uRGOD9c2Q4kNYogJI8/giphy.gif" width="900" />
-</p>
-
---- 
-
-
-<h3 align="center">"Brilliant... but lazy." – My IDE probably</h3>
-
-<p>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5rZmx6NXFsNjB3YWpsNmhuYmt0c251ZTZ2czhpNHVwaTdmdzA1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVId2HqQVNHhrJQpUX/giphy.gif" 
        alt="Funny GIF" 
-       width="800" />
+       width="900" />
 </p>
 
 
