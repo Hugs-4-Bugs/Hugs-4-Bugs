@@ -84,8 +84,10 @@
 <p>🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | <span style="color:#f44336;">100% Sleep Deprived</span></p>
 <p>🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕</p>
 <p>📘 <strong>Author of:</strong> <em>The Inner Battle</em> (it compiles, therefore it exists)</p>
-<p>🐞 <strong>Bugs Fixed:</strong> 999,999 | <span style="color:red;">Bugs Left: 1 and it’s hiding 😈</span></p>
-<p>💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night</p>
+<p> 🐞 <strong>Bug Ledger:</strong><br>
+➕ Created: <span style="color:#f44336;">1,000,000</span><br>
+✔️ Fixed: <span style="color:#4caf50;">999,999</span><br>
+❌ Remaining: <span style="color:#ff9800;"><strong>1 Legendary Bug</strong> (still haunting prod) 👻</span></p><p>💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night</p>
 <p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
 <p>💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”</p>
 <p>📟 <strong>Logs:</strong> 5000 lines/sec... <span style="color:orange;">3 lines useful</span></p>
@@ -110,7 +112,7 @@
 
 ---
 
-<h3 align="center" style="color:#ff4081;">🚀 Let’s build chaos, coffee-fueled code & cool things together!</h3>
+<h3 style="color:#ff4081;">🚀 Let’s build chaos, coffee-fueled code & cool things together!</h3>
 
 
 ---
