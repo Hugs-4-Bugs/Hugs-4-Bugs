@@ -79,7 +79,7 @@
 <div style="padding: 10px;">
 
 <h3 align="center">☠️ <span style="color:#ff4081;">WELCOME TO THE CHAOS ZONE</span> ☠️</h3>
-<👾 <strong>Name:</strong> Prabhat Kumar <em>(a.k.a The Java Juggler)</em><br>
+👾 <strong>Name:</strong> Prabhat Kumar <em>(a.k.a The Java Juggler)</em><br>
 🏢 <strong>Founder:</strong> QuantumFusion Solutions™<br>
 🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | 100% Sleep Deprived<br>
 🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕<br>
