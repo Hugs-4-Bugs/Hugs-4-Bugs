@@ -111,6 +111,7 @@ System.out.println("Why am I like this?");
 
 </details>
 
+---
 
 <h3 align="center" style="color:#ff4081; animation: blinker 1.5s infinite;">🚀 Let’s build chaos, coffee-fueled code & cool things together!</h3>
 
@@ -123,7 +124,6 @@ System.out.println("Why am I like this?");
   animation: blinker 1s linear infinite;
 }
 </style>
-
 
 ---
 
