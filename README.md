@@ -72,58 +72,46 @@
 
 ---
 
-<!-- Chaos Zone: Upgraded Version -->
+<!-- Chaos Zone: Borderless Final Version -->
 <details>
-<summary><h2>🚨💥 ENTER THE CHAOS ZONE: Click If You Dare 💥🚨</h2></summary>
+<summary><h2><span style="color:#ff0000;">🚨💥 ENTER THE CHAOS ZONE: Click If You Dare 💥🚨</span></h2></summary>
 
-<table width="100%" cellspacing="0" cellpadding="10" style="border: 3px solid #ff4081; border-radius: 10px;">
-  <tr>
-    <td>
-      <h3 align="center">☠️ <span style="color:#ff4081;">WELCOME TO THE CHAOS ZONE</span> ☠️</h3>
-      <p>👾 <strong>Name:</strong> <span style="color:#00bcd4;">Prabhat Kumar (a.k.a The Java Juggler)</span></p>
-      <p>🏢 <strong>Founder:</strong> <span style="color:#4caf50;">QuantumFusion Solutions™</span></p>
-      <p>🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | <span style="color:#f44336;">100% Sleep Deprived</span></p>
-      <p>🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕</p>
-      <p>📘 <strong>Author of:</strong> <em>The Inner Battle</em> (it compiles, therefore it exists)</p>
-      <p>🐞 <strong>Bugs Fixed:</strong> 999,999 | <span style="color:red;">Bugs Left: 1 and it’s hiding 😈</span></p>
-      <p>💀 <strong>Status:</strong> Alive... until I hit `git push origin main` on Friday night</p>
-      <p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
-      <p>💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”</p>
-      <p>📟 <strong>Logs:</strong> 5000 lines/sec... <span style="color:orange;">3 lines useful</span></p>
-      <p>🍕 <strong>Fuel:</strong> Pizza + Coffee + Existential Dread</p>
-      <p>💡 <strong>Dev Tip:</strong> “Don’t comment your code — make it legendary (and unreadable)”</p>
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="padding: 10px;">
 
-📣 Ping me if:
-✔ You want to collab & break prod together  
-✔ You think Git merge conflicts are a form of modern art  
-✔ You need emotional support during deploys
+<h3 align="center">☠️ <span style="color:#ff4081;">WELCOME TO THE CHAOS ZONE</span> ☠️</h3>
+<p>👾 <strong>Name:</strong> <span style="color:#00bcd4;">Prabhat Kumar (a.k.a The Java Juggler)</span></p>
+<p>🏢 <strong>Founder:</strong> <span style="color:#4caf50;">QuantumFusion Solutions™</span></p>
+<p>🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | <span style="color:#f44336;">100% Sleep Deprived</span></p>
+<p>🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕</p>
+<p>📘 <strong>Author of:</strong> <em>The Inner Battle</em> (it compiles, therefore it exists)</p>
+<p>🐞 <strong>Bugs Fixed:</strong> 999,999 | <span style="color:red;">Bugs Left: 1 and it’s hiding 😈</span></p>
+<p>💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night</p>
+<p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
+<p>💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”</p>
+<p>📟 <strong>Logs:</strong> 5000 lines/sec... <span style="color:orange;">3 lines useful</span></p>
+<p>🍕 <strong>Fuel:</strong> Pizza + Coffee + Existential Dread</p>
 
-💡 Tip of the Day:
-> Don't comment your code. Let future devs feel the same pain. 😌
+<p><strong style="color:#ffc107;">📣 Ping me if:</strong><br>
+✔ You want to <span style="color:#8bc34a;">collab</span> & break prod together <br>
+✔ You think <span style="color:#9c27b0;">Git merge conflicts</span> are modern art 🎨<br>
+✔ You need emotional support during deploys 😭</p>
 
-👽 Console wisdom:
-System.out.println("Why am I like this?");
-</pre>
+<p><strong style="color:#03a9f4;">💡 Tip of the Day:</strong><br>
+<em>Don't comment your code. Let future devs feel the same pain. 😌</em></p>
+
+<p><strong style="color:#00e676;">👽 Console Wisdom:</strong><br>
+<code>System.out.println("Why am I like this?");</code></p>
+
+
+
+</div>
 
 </details>
 
 ---
 
-<h3 align="center" style="color:#ff4081; animation: blinker 1.5s infinite;">🚀 Let’s build chaos, coffee-fueled code & cool things together!</h3>
+<h3 align="center" style="color:#ff4081;">🚀 Let’s build chaos, coffee-fueled code & cool things together!</h3>
 
-<!-- Blink Animation (May not work on GitHub, but readable in markdown parsers) -->
-<style>
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-.blink {
-  animation: blinker 1s linear infinite;
-}
-</style>
 
 ---
 
