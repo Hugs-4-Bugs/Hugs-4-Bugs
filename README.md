@@ -63,7 +63,11 @@
 
 *I drive.* 🚗💨
 
-![Funny GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5rZmx6NXFsNjB3YWpsNmhuYmt0c251ZTZ2czhpNHVwaTdmdzA1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVId2HqQVNHhrJQpUX/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5rZmx6NXFsNjB3YWpsNmhuYmt0c251ZTZ2czhpNHVwaTdmdzA1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVId2HqQVNHhrJQpUX/giphy.gif" 
+       alt="Funny GIF" 
+       width="500" />
+</p>
 
 
 ---
