@@ -48,12 +48,9 @@
 
 ---
 
-(if you star it, I'll personally thank you if you open an issue here :D)
+## 🐞 Debugging never looked so romantic...
 
-<a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
-  <img src="https://github.com/0vm/0vm/assets/79897291/1d00efde-8b62-41ec-87fd-c307bc0cbbea" alt="a man has fallen in lego city" style="width: 100%;">
-</a>
-
+![You look buggy... I can debug you.](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG56OHB1NGk4M3ptNmhrZWZiYWV1MTZvbXJ3a2xxZTRxbDFpMzA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uRGOD9c2Q4kNYogJI8/giphy.gif)
 
 --- 
 
