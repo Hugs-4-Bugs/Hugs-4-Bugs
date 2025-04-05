@@ -79,32 +79,40 @@
 <div style="padding: 10px;">
 
 <h3 align="center">☠️ <span style="color:#ff4081;">WELCOME TO THE CHAOS ZONE</span> ☠️</h3>
-<p>👾 <strong>Name:</strong> <span style="color:#00bcd4;">Prabhat Kumar (a.k.a The Java Juggler)</span></p>
-<p>🏢 <strong>Founder:</strong> <span style="color:#4caf50;">QuantumFusion Solutions™</span></p>
-<p>🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | <span style="color:#f44336;">100% Sleep Deprived</span></p>
-<p>🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕</p>
-<p>📘 <strong>Author of:</strong> <em>The Inner Battle</em> (it compiles, therefore it exists)</p>
-<p>🐞 <strong>Bug Report:</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;➕ <strong>Created:</strong>&nbsp;&nbsp;&nbsp;1,000,000<br>
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ <strong>Fixed:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;999,999<br>
-&nbsp;&nbsp;&nbsp;&nbsp;❌ <strong>Remaining:</strong> <span style="color:red;"><strong>1 Sneaky Boi</strong> 😈</span><br></p>
+<👾 <strong>Name:</strong> Prabhat Kumar <em>(a.k.a The Java Juggler)</em><br>
+🏢 <strong>Founder:</strong> QuantumFusion Solutions™<br>
+🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | 100% Sleep Deprived<br>
+🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕<br>
+📘 <strong>Author of:</strong> The Inner Battle <em>(it compiles, therefore it exists)</em><br>
+<br>
+🐞 <strong>Bug Report:</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;➕ Created:   1,000,000<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Fixed:     999,999<br>
+&nbsp;&nbsp;&nbsp;&nbsp;❌ Remaining: <span style="color:red;"><strong>1 Sneaky Boi</strong> 😈</span><br>
+<br>
+💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night<br>
+🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏<br>
+💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”<br>
+📟 <strong>Logs:</strong> 5000 lines/sec... 3 lines useful<br>
+🍕 <strong>Fuel:</strong> Pizza + Coffee + Existential Dread<br>
+<br>
+📣 <strong>Ping me if:</strong><br>
+✔ You want to collab & break prod together<br>
+✔ You think Git merge conflicts are modern art 🎨<br>
+✔ You need emotional support during deploys 😭<br>
+<br>
+💡 <strong>Tip of the Day:</strong><br>
+<blockquote>Don't comment your code. Let future devs feel the same pain. 😌</blockquote>
 
-<p>💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night</p>
-<p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
-<p>💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”</p>
-<p>📟 <strong>Logs:</strong> 5000 lines/sec... <span style="color:orange;">3 lines useful</span></p>
-<p>🍕 <strong>Fuel:</strong> Pizza + Coffee + Existential Dread</p>
+👽 <strong>Console Wisdom:</strong><br>
+<code>System.out.println("Why am I like this?");</code><br>
 
-<p><strong style="color:#ffc107;">📣 Ping me if:</strong><br>
-✔ You want to <span style="color:#8bc34a;">collab</span> & break prod together <br>
-✔ You think <span style="color:#9c27b0;">Git merge conflicts</span> are modern art 🎨<br>
-✔ You need emotional support during deploys 😭</p>
+⚡ <strong>Fun Fact:</strong> Once deployed a "Hello World" app that took down staging. Still proud.
 
-<p><strong style="color:#03a9f4;">💡 Tip of the Day:</strong><br>
-<em>Don't comment your code. Let future devs feel the same pain. 😌</em></p>
+🎯 <strong>Secret Skill:</strong> Turning debug logs into bedtime stories 💤
 
-<p><strong style="color:#00e676;">👽 Console Wisdom:</strong><br>
-<code>System.out.println("Why am I like this?");</code></p>
+🐍 <strong>Tech Stack:</strong> Java | Spring Boot | Hibernate | AI | Chaos | Copium
+
 
 
 
