@@ -85,12 +85,14 @@
 <p>🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕</p>
 <p>📘 <strong>Author of:</strong> <em>The Inner Battle</em> (it compiles, therefore it exists)</p>
 <p>
-🐞 Bug Ledger:
+║ 🐞 <strong>Bug Report:</strong><br>
+<pre style="margin:0; font-size: 15px;">
     ➕ Created:   1,000,000
     ✔️ Fixed:     999,999
-    ❌ Remaining: 1 Legendary Bug (still haunting prod) 👻
+    ❌ Remaining: <span style="color:red;"><strong>1 Sneaky Boi</strong> 😈</span>
+</pre>
+║
 </p>
-
 <p>💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night</p>
 <p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
 <p>💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”</p>
