@@ -63,8 +63,8 @@
 
 *I drive.* 🚗💨
 
-[![Ryan Gosling Drive](![image](https://github.com/user-attachments/assets/a256b68f-2f85-40fd-833b-b82411381099))]
-[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
+![image](https://github.com/user-attachments/assets/f3ad3052-3fe4-4bac-8584-62f13469e1d7)
+
 
 
 
