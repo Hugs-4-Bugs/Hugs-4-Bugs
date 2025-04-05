@@ -56,11 +56,8 @@
 
 --- 
 
-## About Me
 
-| Java | Spring Boot | SQL | Data Structures | Algorithms | AWS |
-
-*I drive.* 🚗💨
+<h3 align="center">"Brilliant... but lazy." – My IDE probably</h3>
 
 <p>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5rZmx6NXFsNjB3YWpsNmhuYmt0c251ZTZ2czhpNHVwaTdmdzA1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVId2HqQVNHhrJQpUX/giphy.gif" 
