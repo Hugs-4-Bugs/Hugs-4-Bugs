@@ -63,7 +63,7 @@
 
 *I drive.* 🚗💨
 
-[![Funny GIF](https://drive.google.com/file/d/17iNzbfqr_R0LnMha-ezeEvKAAazdmELB/view?usp=share_link)]
+![image](https://github.com/user-attachments/assets/1c171956-d706-4ea5-a6dc-c31081fe8a6d)
 
 ---
 
