@@ -84,12 +84,12 @@
 <p>🧠 <strong>Brain Mode:</strong> 50% Spring Boot | 50% AI | <span style="color:#f44336;">100% Sleep Deprived</span></p>
 <p>🔥 <strong>Current Task:</strong> Taming Spring Security while drinking burnt chai ☕</p>
 <p>📘 <strong>Author of:</strong> <em>The Inner Battle</em> (it compiles, therefore it exists)</p>
-<pre>
+<p>
 🐞 Bug Ledger:
     ➕ Created:   1,000,000
     ✔️ Fixed:     999,999
     ❌ Remaining: 1 Legendary Bug (still haunting prod) 👻
-</pre>
+</pre>p
 
 <p>💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night</p>
 <p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
