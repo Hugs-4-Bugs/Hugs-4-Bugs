@@ -89,7 +89,7 @@
     ➕ Created:   1,000,000
     ✔️ Fixed:     999,999
     ❌ Remaining: 1 Legendary Bug (still haunting prod) 👻
-</pre>p
+</p>
 
 <p>💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night</p>
 <p>🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏</p>
