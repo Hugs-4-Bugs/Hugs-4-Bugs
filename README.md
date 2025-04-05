@@ -63,10 +63,32 @@
 
 *I drive.* 🚗💨
 
-![image](https://github.com/user-attachments/assets/f3ad3052-3fe4-4bac-8584-62f13469e1d7)
+[![Funny GIF](https://drive.google.com/file/d/17iNzbfqr_R0LnMha-ezeEvKAAazdmELB/view?usp=share_link)]
 
+---
 
+```java
+public class QuantumFusionIntro {
 
+    public static void main(String[] args) {
+        final String name = "Prabhat Kumar 🚀";
+        final String company = "QuantumFusion Solutions";
+        final String currentMission = "Taming AI, Cloud, and maybe my sleep schedule";
+        final String book = "The Inner Battle 📖";
+
+        System.out.println("*************************************************************");
+        System.out.println("************ Welcome to " + company + " Universe ************");
+        System.out.println("*************************************************************");
+        System.out.println("👋 Hey there, digital wanderer!");
+        System.out.println("🌟 I'm " + name + ", founder, builder, and occasional philosopher.");
+        System.out.println("🤖 Currently busy with: " + currentMission);
+        System.out.println("✍️ Also writing a book called '" + book + "' — it's deep stuff, trust me.");
+        System.out.println("☕ If you bring coffee and crazy ideas, we might just build the next big thing.");
+        System.out.println("📫 HMU if you're down to innovate or just rant about semicolons!");
+    }
+}
+
+```
 
 # 📊 GitHub Stats:
 
