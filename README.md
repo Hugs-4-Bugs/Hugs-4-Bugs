@@ -150,8 +150,8 @@
 <p><strong>🛑 FED who?</strong><br>
 <em>“Bro, I’m inflating the market... with a bicycle pump.” 🚴‍♂️💥</em></p>
 
-<p><strong>📉 Strategy:</strong> Buy high, panic higher.<br>
-<strong>📊 Analysis:</strong> Vibes-based entry. Regret-based exit.</p> </br>
+<p><strong>📉 Strategy:</strong> Buy high, panic higher.</p>
+<p><strong>📊 Analysis:</strong> Vibes-based entry. Regret-based exit.</p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px; width: 100%; max-width: 1000px; margin-left: auto; margin-right: auto;">
 
@@ -166,6 +166,7 @@
        style="width: 48%; border-radius:10px; box-shadow: 0 0 15px rgba(0,0,255,0.3);">
 
 </div>
+
      
 ---
 
