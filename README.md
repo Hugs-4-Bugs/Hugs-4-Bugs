@@ -209,10 +209,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiaThhZ2txMjg1dW5oaTEzZzBkb3NrYmhland0NmkwYXk1ZnY4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hlNNuCs57YFaXPCPtH/giphy.gif" width="300" alt="Dev Meme">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiaThhZ2txMjg1dW5oaTEzZzBkb3NrYmhland0NmkwYXk1ZnY4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hlNNuCs57YFaXPCPtH/giphy.gif" width="500" alt="Dev Meme">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/61ce577f-773c-41b5-b9af-9fd016f5ae21" width="300" alt="Funny Coding Image">
+      <img src="https://github.com/user-attachments/assets/61ce577f-773c-41b5-b9af-9fd016f5ae21" width="500" alt="Funny Coding Image">
     </td>
   </tr>
 </table>
