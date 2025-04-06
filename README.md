@@ -172,33 +172,50 @@
 
 [![View LinkedIn Activity](https://img.shields.io/badge/linkedin-2A5CBD.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-kumar-6963661a4/recent-activity/all/)
 
+---
 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Hugs-4-Bugs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 
 ### 🔝 HackerRank Badge
 
 <img width="888" alt="Screenshot 2024-12-31 at 9 08 54 PM" src="https://github.com/user-attachments/assets/21c94c2b-fa9d-4788-a0e7-47bfab816b40" />
 
+--- 
+
 ### 🔝 My HackerRank Certifications
 
 <img width="875" alt="Screenshot 2024-12-31 at 9 04 51 PM" src="https://github.com/user-attachments/assets/33014532-8377-4dd9-9d7f-17809c980c5a" />
+
+---
 
 ### 🔝 My GeeksforGeeks Contribution
 
 <img width="1135" alt="Screenshot 2024-12-31 at 9 23 49 PM" src="https://github.com/user-attachments/assets/804443a1-8327-4546-819f-491ead453613" />
 
+--- 
+
 ### 🔝 My LeetCode Contribution
 
 <img width="1440" alt="Screenshot 2025-01-15 at 6 38 40 PM" src="https://github.com/user-attachments/assets/8b9fe10d-0b17-4f9a-a0cd-bb5963634ed7" />
 
-
+---
 
 ## 😂 Random Dev Meme
 
-<img src="https://github.com/user-attachments/assets/61ce577f-773c-41b5-b9af-9fd016f5ae21" width="300" alt="Image">
+<table>
+  <tr>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiaThhZ2txMjg1dW5oaTEzZzBkb3NrYmhland0NmkwYXk1ZnY4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hlNNuCs57YFaXPCPtH/giphy.gif" width="300" alt="Dev Meme">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/61ce577f-773c-41b5-b9af-9fd016f5ae21" width="300" alt="Funny Coding Image">
+    </td>
+  </tr>
+</table>
 
 
 ---
