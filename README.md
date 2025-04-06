@@ -145,29 +145,26 @@
 
 --- 
 
+
 <h2>📈 Trader Mode: Activated (with zero clue)</h2>
 
-<p><strong>🛑 FED who?</strong><br>
-<em>“Bro, I’m inflating the market... with a bicycle pump.” 🚴‍♂️💥</em></p>
+**🛑 FED who?**  
+*“Bro, I’m inflating the market... with a bicycle pump.” 🚴‍♂️💥*
 
-<p><strong>📉 Strategy:</strong> Buy high, panic higher.</p>
-<p><strong>📊 Analysis:</strong> Vibes-based entry. Regret-based exit.</p>
+**📉 Strategy:** Buy high, panic higher.  
+**📊 Analysis:** Vibes-based entry. Regret-based exit.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px; width: 100%; max-width: 1000px; margin-left: auto; margin-right: auto;">
+<table>
+  <tr>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RkdmU2bXJ5czZjcnUyc3pia2czd3B3Z3pvaTFlZ3RtZHZuM2cxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPlAudZVox1MctuhxO/giphy.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpxd2h5N2g4cGo5b3lyamhhdHU1MDd4ZzNrcHF6bWViYzYxNmdlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OC5VeXy5HRspN1nBjF/giphy.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Left GIF -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RkdmU2bXJ5czZjcnUyc3pia2czd3B3Z3pvaTFlZ3RtZHZuM2cxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPlAudZVox1MctuhxO/giphy.gif"
-       alt="Trading Meme"
-       style="width: 48%; border-radius:10px; box-shadow: 0 0 15px rgba(255,0,0,0.4);">
-
-  <!-- Right GIF -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpxd2h5N2g4cGo5b3lyamhhdHU1MDd4ZzNrcHF6bWViYzYxNmdlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OC5VeXy5HRspN1nBjF/giphy.gif"
-       alt="Big Brain Meme"
-       style="width: 48%; border-radius:10px; box-shadow: 0 0 15px rgba(0,0,255,0.3);">
-
-</div>
-
-     
 ---
 
 
