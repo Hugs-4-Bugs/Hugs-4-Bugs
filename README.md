@@ -87,7 +87,7 @@
 <p>🐞 <strong>Bug Report:</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;➕ Created:   1,000,000<br>
 &nbsp;&nbsp;&nbsp;&nbsp;✔️ Fixed:     999,999<br>
-&nbsp;&nbsp;&nbsp;&nbsp;❌ Remaining: <span style="color:red;"><strong>1 Sneaky Boi</strong> 😈</span><br></p>
+&nbsp;&nbsp;&nbsp;&nbsp;❌ Remaining: <span style="color:red;"><strong>1 Sneaky Boi</strong> 😈 hiding like Ninja 🥷</span><br></p>
 💀 <strong>Status:</strong> Alive... until I hit <code>git push origin main</code> on Friday night<br>
 🧪 <strong>Favorite API:</strong> One that doesn’t break in prod 🙏<br>
 💬 <strong>Dev Quote:</strong> “Try-catch won’t fix your broken heart 💔”<br>
